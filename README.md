@@ -3,7 +3,9 @@ Student majoring in Mathematics at UIW
 
 
 # Education
-St. Anthony Catholic High School Class of '23 \n
+St. Anthony Catholic High School Class of '23
+
+
 UIW Class of '27
 
 
