@@ -51,6 +51,4 @@ UIW Class of '27
 <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Google%20ADA%20Capstone.pdf"> Google ADA Capstone </a>
 </li>
 
-
-
 # Open Source Software
