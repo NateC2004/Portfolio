@@ -4,7 +4,8 @@ Student majoring in Mathematics and Data Science at UIW
 
 # Education
 St. Anthony Catholic High School Class of '23
-UIW Class of '27
+
+University of the Incarnate Word Class of '27
 
 # Projects
 <table> 
