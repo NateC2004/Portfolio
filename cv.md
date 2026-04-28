@@ -7,7 +7,6 @@ St. Anthony Catholic High School Class of '23
 UIW Class of '27
 
 # Projects
-<h1> Projects</h1>
 <table> 
   <tr>
     <td> <img src = 'sample_image.png' alt = "Web Scraping Image" width = "150" > </td> 
