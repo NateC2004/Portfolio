@@ -25,7 +25,6 @@ UIW Class of '27
 # Awards
 
 # Certificates
-Google Advanced Data Analytics Professional Certificate (2026)
 <a href = "file:///C:/Users/nate8/OneDrive/UIW/Spring%202026/Capstone%20Data%20Science/Google%20ADA%20Certificates/Google%20Advanced%20Data%20Analytics%20(ADA)%20Certificate.pdf"> Google Advanced Data Analytics Professional Certificate (2026) </a>
 
 # Open Source Software
