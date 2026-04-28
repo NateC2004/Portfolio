@@ -10,7 +10,7 @@ UIW Class of '27
 <table> 
   <tr>
     <td> <img src = 'sample_image.png' alt = "Web Scraping Image" width = "150" > </td> 
-    <a href = "https://github.com/NateC2004/Webscraping"> In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including books to scrape and Mathjobs. </a> </td>
+    <td> <a href = "https://github.com/NateC2004/Webscraping"> In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including books to scrape and Mathjobs. </a> </td>
   </tr> 
   
   <tr>
