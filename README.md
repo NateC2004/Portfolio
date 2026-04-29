@@ -30,6 +30,20 @@ University of the Incarnate Word Class of '27
 
 
 # Selected Presentations
+10th Annual Coastal Bend Mathematics and Statistics Conference at Texas A&M Corpus Christi (2026)
+<ul>
+<li>
+Presentation: "Predicting College Student Performance Using Machine Learning Techniques"
+</li>
+</ul>
+
+19th Annual Excellence Summit at Universitiy of the Incarnate Word (2026)
+<ul>
+<li>
+Presentation: "Cultural and Global Influence on Film Industry Revenues Using Bass Diffusion Model"
+</li>
+</ul>
+
 
 # Awards
 
