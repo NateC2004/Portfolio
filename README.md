@@ -33,14 +33,14 @@ University of the Incarnate Word Class of '27
 10th Annual Coastal Bend Mathematics and Statistics Conference at Texas A&M Corpus Christi (2026)
 <ul>
 <li>
-Presentation: "Predicting College Student Performance Using Machine Learning Techniques"
+Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/documents/Predicting%20College%20Student%20Performance%20Using%20Machine%20Learning%20Techniques%20Finalized%20Presentation.pptx"> Predicting College Student Performance Using Machine Learning Techniques </a>"
 </li>
 </ul>
 
 19th Annual Excellence Summit at Universitiy of the Incarnate Word (2026)
 <ul>
 <li>
-Presentation: "Cultural and Global Influence on Film Industry Revenues Using Bass Diffusion Model"
+Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/documents/Nathan%20Castro_Dr%20Bulut_Cultural%20and%20Global%20Influence%20on%20Film%20Industry%20Revenues%20using%20Bass%20Diffusion%20Model.pdf"> Cultural and Global Influence on Film Industry Revenues Using Bass Diffusion Model </a>"
 </li>
 </ul>
 
