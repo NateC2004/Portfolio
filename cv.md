@@ -18,6 +18,11 @@ University of the Incarnate Word Class of '27
     <td> <img src = 'https://tse4.mm.bing.net/th/id/OIP.8dqsvnNxoWQ14tu-NY2aFgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3'> </td> 
     <td> <a href = "https://github.com/NateC2004/Capstone-911-Emergency-Call-Analysis"> In this project, I explored and analyzed 911 call data from Kaggle. This dataset contains records of emergency calls and includes various details that I used to uncover patterns, trends, and insights. </a> </td>
   </tr>  
+
+  <tr>
+    <td> <img src = 'https://universityenglish.ac.uk/wp-content/uploads/2023/09/open-u-.jpg'> </td> 
+    <td> <a href = "https://github.com/NateC2004/Predicting-College-Student-Performance-ML"> This project applies Machine Learning techniques to analyze student information from an online school, Open University, back in the years 2013 and 2014. </a> </td>
+  </tr>  
   
 </table>
 
@@ -39,20 +44,19 @@ University of the Incarnate Word Class of '27
     <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Get%20Started%20with%20Python.pdf"> Get Started with Python </a>
   </li>
   <li>
-<a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Translate%20Data%20into%20Insights.pdf"> Translate Data into Insights </a>
-</li>
-<li>
-<a href="https://github.com/NateC2004/Portfolio/blob/main/documents/The%20Power%20of%20Statistics.pdf"> The Power of Statistics </a>
-</li>
-<li>
-<a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Regression%20Analysis.pdf"> Regression Analysis </a>
-</li>
-
-<li>
-<a href="https://github.com/NateC2004/Portfolio/blob/main/documents/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning.pdf"> The Nuts and Bolts of Machine Learning </a>
-</li> 
-<li>
-<a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Google%20ADA%20Capstone.pdf"> Google ADA Capstone </a>
-</li>
+    <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Translate%20Data%20into%20Insights.pdf"> Translate Data into Insights </a>
+  </li>
+  <li>
+    <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/The%20Power%20of%20Statistics.pdf"> The Power of Statistics </a>
+  </li>
+  <li>
+    <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Regression%20Analysis.pdf"> Regression Analysis </a>
+  </li>
+  <li>
+    <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning.pdf"> The Nuts and Bolts of Machine Learning </a>
+  </li> 
+  <li>
+    <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Google%20ADA%20Capstone.pdf"> Google ADA Capstone </a>
+  </li>
 
 
