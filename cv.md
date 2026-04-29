@@ -11,12 +11,12 @@ University of the Incarnate Word Class of '27
 <table> 
   <tr>
     <td> <img src = 'https://www.hillel.org/wp-content/uploads/college-images/Boston_College2.jpg'> </td> 
-    <td> <a href = "https://github.com/NateC2004/Webscraping"> In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including books to scrape and Mathjobs. </a> </td>
+    <td> <a href = "https://github.com/NateC2004/Webscraping"> In this project, I used BeautifulSoup to scrape data from MathJobs website. The project automates data collection for insights into academic job listings. </a> </td>
   </tr> 
   
   <tr>
     <td> <img src = 'https://tse4.mm.bing.net/th/id/OIP.8dqsvnNxoWQ14tu-NY2aFgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3'> </td> 
-    <td> <a href = "https://github.com/NateC2004/Capstone-911-Emergency-Call-Analysis"> In this project, I'll explore and analyze 911 call data from Kaggle. This dataset contains records of emergency calls and includes various details that I will use to uncover patterns, trends, and insights. </a> </td>
+    <td> <a href = "https://github.com/NateC2004/Capstone-911-Emergency-Call-Analysis"> In this project, I explored and analyzed 911 call data from Kaggle. This dataset contains records of emergency calls and includes various details that I used to uncover patterns, trends, and insights. </a> </td>
   </tr>  
   
 </table>
