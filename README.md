@@ -42,7 +42,7 @@ R Software
 10th Annual Coastal Bend Mathematics and Statistics Conference at Texas A&M Corpus Christi (2026)
 <ul>
 <li>
-Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/documents/Predicting%20Student%20Performance%20through%20Machine%20Learning_Full%20Version.pdf"> Predicting College Student Performance Using Machine Learning Techniques </a>"
+Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/documents/Predicting%20College%20Student%20Performance%20Using%20Machine%20Learning%20Techniques%20Finalized%20Presentation.pdf"> Predicting College Student Performance Using Machine Learning Techniques </a>"
 </li>
 </ul>
 
