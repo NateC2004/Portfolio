@@ -1,11 +1,11 @@
 # Nathan Castro
-Student majoring in Mathematics and Data Science at UIW
+Student majoring in Mathematics and Data Science at the University of the Incarnate Word
 
 
 # Education
 St. Anthony Catholic High School Class of '23
 
-University of the Incarnate Word Class of '27
+University of the Incarnate Word Class of '27 
 
 # Projects
 <table> 
@@ -27,11 +27,53 @@ University of the Incarnate Word Class of '27
 </table>
 
 # Open Source Software
-
+Python Software
+<ul>
+<li>
+Google Colab
+</li>
+<li>
+Visual Studio Code
+</li>
+</ul>
+R Software
 
 # Selected Presentations
+10th Annual Coastal Bend Mathematics and Statistics Conference at Texas A&M Corpus Christi (2026)
+<ul>
+<li>
+Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/documents/Predicting%20Student%20Performance%20through%20Machine%20Learning_Full%20Version.pdf"> Predicting College Student Performance Using Machine Learning Techniques </a>"
+</li>
+</ul>
 
-# Awards
+19th Annual Excellence Summit at Universitiy of the Incarnate Word (2026)
+<ul>
+<li>
+Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/documents/Nathan%20Castro_Dr%20Bulut_Cultural%20and%20Global%20Influence%20on%20Film%20Industry%20Revenues%20using%20Bass%20Diffusion%20Model.pdf"> Cultural and Global Influence on Film Industry Revenues Using Bass Diffusion Model </a>"
+</li>
+</ul>
+
+
+# Awards/Honors/Titles
+Outstanding Sophomore Award in the Department of Mathematics, Statistics and Data Science (2024)
+<ul>
+<li>
+I was a 1st year student at the time
+</ul>
+</li>
+
+Outstanding Junior Award in the Department of Mathematics, Statistics and Data Science (2025)
+<ul>
+<li>
+I was a 2nd year student at the time
+</ul>
+</li>
+
+University of the Incarnate Word Dean's List
+
+Dean Student Advisory Board
+
+President of the University of the Incarnate Word Math Club (2024-2026)
 
 # Certificates
 <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Google%20Advanced%20Data%20Analytics%20(ADA)%20Certificate.pdf"> Google Advanced Data Analytics Professional Certificate (2026) </a>
@@ -58,5 +100,3 @@ University of the Incarnate Word Class of '27
   <li>
     <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Google%20ADA%20Capstone.pdf"> Google ADA Capstone </a>
   </li>
-
-
