@@ -10,17 +10,17 @@ University of the Incarnate Word Class of '27
 # Projects
 <table> 
   <tr>
-    <td> <img src = 'https://www.hillel.org/wp-content/uploads/college-images/Boston_College2.jpg'> </td> 
+    <td> <img src = 'https://www.hillel.org/wp-content/uploads/college-images/Boston_College2.jpg' width= "150" height= "150"> </td> 
     <td> <a href = "https://github.com/NateC2004/Webscraping"> In this project, I used BeautifulSoup to scrape data from MathJobs website. The project automates data collection for insights into academic job listings. </a> </td>
   </tr> 
   
   <tr>
-    <td> <img src = 'https://tse4.mm.bing.net/th/id/OIP.8dqsvnNxoWQ14tu-NY2aFgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3'> </td> 
+    <td> <img src = 'https://tse4.mm.bing.net/th/id/OIP.8dqsvnNxoWQ14tu-NY2aFgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3' width= "150" height= "150"> </td> 
     <td> <a href = "https://github.com/NateC2004/Capstone-911-Emergency-Call-Analysis"> In this project, I explored and analyzed 911 call data from Kaggle. This dataset contains records of emergency calls and includes various details that I used to uncover patterns, trends, and insights. </a> </td>
   </tr>  
 
   <tr>
-    <td> <img src = 'https://universityenglish.ac.uk/wp-content/uploads/2023/09/open-u-.jpg'> </td> 
+    <td> <img src = 'https://universityenglish.ac.uk/wp-content/uploads/2023/09/open-u-.jpg' width= "150" height= "150"> </td> 
     <td> <a href = "https://github.com/NateC2004/Predicting-College-Student-Performance-ML"> This project applies Machine Learning techniques to analyze student information from an online school, Open University, back in the years 2013 and 2014. </a> </td>
   </tr>  
   
@@ -100,3 +100,30 @@ President of the University of the Incarnate Word Math Club (2024-2026)
   <li>
     <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Google%20ADA%20Capstone.pdf"> Google ADA Capstone </a>
   </li>
+  </ul>
+
+# Professional References 
+Dr. Md Rafiul Islam (Professor of Mathematics, Statistics, and Data Science at University of the Incarnate Word)
+<ul>
+<li>
+Email: mdislam@uiwtx.edu
+
+Office Phone: 210-805-1225
+
+Cell Phone: 806-317-4096
+</li>
+</ul>
+
+Dr. Suleyman Tek (Professor of Mathematics at University of the Incarnate Word)
+
+<ul>
+<li>
+Email: tek@uiwtx.edu
+
+Office Phone: 210-805-1228
+</li>
+</ul>
+
+
+
+
