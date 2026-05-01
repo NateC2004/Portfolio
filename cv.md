@@ -109,8 +109,6 @@ Dr. Md Rafiul Islam (Professor of Mathematics, Statistics, and Data Science at U
 Email: mdislam@uiwtx.edu
 
 Office Phone: 210-805-1225
-
-Cell Phone: 806-317-4096
 </li>
 </ul>
 
