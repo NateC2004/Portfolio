@@ -69,7 +69,7 @@ I was a 2nd year student at the time
 </ul>
 </li>
 
-Outstanding Senior in the Field of Mathematics, Statistics and Data Science (2025)
+Outstanding Senior in the Field of Mathematics, Statistics and Data Science (2026)
 <ul>
 <li>
 I was a 3rd year student at the time
