@@ -55,17 +55,24 @@ Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/docum
 
 
 # Awards/Honors/Titles
-Outstanding Sophomore Award in the Department of Mathematics, Statistics and Data Science (2024)
+Outstanding Sophomore in the Field of Mathematics, Statistics and Data Science (2024)
 <ul>
 <li>
 I was a 1st year student at the time
 </ul>
 </li>
 
-Outstanding Junior Award in the Department of Mathematics, Statistics and Data Science (2025)
+Outstanding Junior in the Field of Mathematics, Statistics and Data Science (2025)
 <ul>
 <li>
 I was a 2nd year student at the time
+</ul>
+</li>
+
+Outstanding Senior in the Field of Mathematics, Statistics and Data Science (2025)
+<ul>
+<li>
+I was a 3rd year student at the time
 </ul>
 </li>
 
