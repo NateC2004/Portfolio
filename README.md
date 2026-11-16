@@ -3,25 +3,25 @@ Student majoring in Mathematics and Data Science at the University of the Incarn
 
 
 # Education
-St. Anthony Catholic High School Class of '23
-
 University of the Incarnate Word Class of '27 
+
+St. Anthony Catholic High School Class of '23
 
 # Projects
 <table> 
   <tr>
-    <td> <img src = 'https://www.hillel.org/wp-content/uploads/college-images/Boston_College2.jpg' width= "150" height= "150"> </td> 
-    <td> <a href = "https://github.com/NateC2004/Webscraping"> In this project, I used BeautifulSoup to scrape data from MathJobs website. The project automates data collection for insights into academic job listings. </a> </td>
-  </tr> 
-  
+    <td> <img src = 'https://universityenglish.ac.uk/wp-content/uploads/2023/09/open-u-.jpg' width= "150" height= "150"> </td> 
+    <td> <a href = "https://github.com/NateC2004/Predicting-College-Student-Performance-ML"> This project applies Machine Learning techniques to analyze student information from an online school, Open University, back in the years 2013 and 2014. </a> </td>
+  </tr>   
+ 
   <tr>
     <td> <img src = 'https://tse4.mm.bing.net/th/id/OIP.8dqsvnNxoWQ14tu-NY2aFgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3' width= "150" height= "150"> </td> 
     <td> <a href = "https://github.com/NateC2004/Capstone-911-Emergency-Call-Analysis"> In this project, I explored and analyzed 911 call data from Kaggle. This dataset contains records of emergency calls and includes various details that I used to uncover patterns, trends, and insights. </a> </td>
-  </tr>  
-
+  </tr> 
+  
   <tr>
-    <td> <img src = 'https://universityenglish.ac.uk/wp-content/uploads/2023/09/open-u-.jpg' width= "150" height= "150"> </td> 
-    <td> <a href = "https://github.com/NateC2004/Predicting-College-Student-Performance-ML"> This project applies Machine Learning techniques to analyze student information from an online school, Open University, back in the years 2013 and 2014. </a> </td>
+    <td> <img src = 'https://www.hillel.org/wp-content/uploads/college-images/Boston_College2.jpg' width= "150" height= "150"> </td> 
+    <td> <a href = "https://github.com/NateC2004/Webscraping"> In this project, I used BeautifulSoup to scrape data from MathJobs website. The project automates data collection for insights into academic job listings. </a> </td>
   </tr>  
   
 </table>
@@ -35,8 +35,13 @@ Google Colab
 <li>
 Visual Studio Code
 </li>
+<li>
+Anaconda (Jupyter Lab)  
+</li>
 </ul>
 R Software
+
+SQL
 
 # Selected Presentations
 10th Annual Coastal Bend Mathematics and Statistics Conference at Texas A&M Corpus Christi (2026)
@@ -55,32 +60,17 @@ Presentation: "<a href = "https://github.com/NateC2004/Portfolio/blob/main/docum
 
 
 # Awards/Honors/Titles
-Outstanding Sophomore in the Field of Mathematics, Statistics and Data Science (2024)
-<ul>
-<li>
-I was a 1st year student at the time
-</ul>
-</li>
-
-Outstanding Junior in the Field of Mathematics, Statistics and Data Science (2025)
-<ul>
-<li>
-I was a 2nd year student at the time
-</ul>
-</li>
-
-Outstanding Senior in the Field of Mathematics, Statistics and Data Science (2026)
-<ul>
-<li>
-I was a 3rd year student at the time
-</ul>
-</li>
-
-University of the Incarnate Word Dean's List
-
 Dean Student Advisory Board
 
 President of the University of the Incarnate Word Math Club (2024-2026)
+
+Outstanding Senior in the Field of Mathematics, Statistics and Data Science (2026)
+
+Outstanding Junior in the Field of Mathematics, Statistics and Data Science (2025)
+
+Outstanding Sophomore in the Field of Mathematics, Statistics and Data Science (2024)
+
+University of the Incarnate Word Dean's List
 
 # Certificates
 <a href="https://github.com/NateC2004/Portfolio/blob/main/documents/Google%20Advanced%20Data%20Analytics%20(ADA)%20Certificate.pdf"> Google Advanced Data Analytics Professional Certificate (2026) </a>
